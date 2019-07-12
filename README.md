@@ -44,3 +44,9 @@ GET   http://localhost:3010/product/1234
 ```
 
 It needs some data. So add the necessary data through the post request.
+
+Also, if you have a local runnable version of mongodb then go ahead and run it:
+
+```
+$ sudo mongod
+```
