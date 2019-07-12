@@ -5,9 +5,11 @@ Creating a microservice with molecular.
 ## Getting started
 
 1- Install dependencies
+
 `$ cd ~/service && npm install`
 
 2- After that completes, run the server
+
 `$ npm run start`
 
 3- Test your endpoints on postman
